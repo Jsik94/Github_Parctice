@@ -29,6 +29,11 @@ public class Fragment2 extends Fragment {
         tv_tvfrag2 = view.findViewById(R.id.tv_frag2);
         btn_move2 = view.findViewById(R.id.btn_move2);
 
+        /*
+        추가해봄!!
+
+         */
+
         //데이터 받아옴
 
         if(getArguments() !=null){
